@@ -5,14 +5,14 @@ Joseph Epperson
 Capstone project for Data Science Certification, 2025
 
 ## Overview
-**HitSense** is a machine learning project designed to estimate the **hit potential** of songs based on their audio features. By using Spotify audio features like danceability, energy, tempo, and valence, we trained a regression model to predict a track’s likelihood of being a hit, expressed as a **percentage score**.
+**HitSense** is a machine learning project designed to estimate the **hit potential** of songs based on their audio features. By using Spotify audio features like danceability, energy, tempo, and valence, I trained a regression model to predict a track’s likelihood of being a hit, expressed as a **percentage score**.
 
 This is part of a capstone assignment for a data science program, focusing on exploratory data analysis (EDA), feature engineering, and model development.
 
 ---
 
 ## Dataset
-We used a simplified version of the [Spotify Audio Features Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-160k-tracks). A sample subset is included here for demonstration purposes.
+Using a simplified version of the [Spotify Audio Features Dataset](https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-160k-tracks). A sample subset is included here for demonstration purposes.
 
 **Files:**
 - `data/hitsense_raw.csv` — raw input data
