@@ -1,5 +1,9 @@
 # 🎧 HitSense: Predicting Hit Potential of Songs
 
+## Author
+Joseph Epperson  
+Capstone project for Data Science Certification, 2025
+
 ## Overview
 **HitSense** is a machine learning project designed to estimate the **hit potential** of songs based on their audio features. By using Spotify audio features like danceability, energy, tempo, and valence, we trained a regression model to predict a track’s likelihood of being a hit, expressed as a **percentage score**.
 
@@ -54,10 +58,6 @@ Future improvements could include Random Forest, Gradient Boosting, or even neur
 4. Run `HitSense_EDA_and_Model_Full.ipynb`
 
 ---
-
-## Author
-**Bedrock** (Joseph)  
-Capstone project for Data Science Certification, 2025
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bedrock510/Hit-SENSE/blob/main/HitSense_EDA_and_Model_Full.ipynb)
 
