@@ -58,3 +58,6 @@ Future improvements could include Random Forest, Gradient Boosting, or even neur
 ## Author
 **Bedrock** (Joseph)  
 Capstone project for Data Science Certification, 2025
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bedrock510/Hit-SENSE/blob/main/HitSense_EDA_and_Model_Full.ipynb)
+
